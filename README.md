@@ -1,16 +1,25 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8848ff&height=120&section=header"/>
 
-<!--
-**kobDanonino/kobDanonino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¡Hola!
 
-Here are some ideas to get you started:
+### bievenido a mi repositorio 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contactame ✨
+> `¡Cuentas oficiales ! 🍡`
+ 
+<a href="https://www.instagram.com/kob_dano_nino"><img height="40" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png"></a>
+<a  href="https://www.facebook.com/DanoninoDanonino"><img height="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/facebook_logo_icon_147291.png"></a>
+<a  href="https://www.tiktok.com/@Danonino uwu"><img height="40" src="https://cdn.icon-icons.com/icons2/2972/PNG/512/tiktok_logo_icon_186896.png"></a>
+
+<div align="center">
+
+
+<a href="https://github.com/kobDanonino/AI-HOSHINO-V2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobDanonino&repo=AI-HOSHINO-V2&theme=merko" />
+</a>
+
+<a href="https://github.com/kobDanonino/SHINOBU-KOCHO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobDanonino&repo=SHINOBU-KOCHO&theme=merko" />
+</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2693ff&height=120&section=footer"/>
