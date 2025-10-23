@@ -27,6 +27,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobDanonino&repo=SHINOBU-KOCHO&theme=merko" />
 </a>
 
+<a href="https://github.com/kobDanonino/Prueba-Web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobDanonino&repo=Prueba-Web&theme=red" />
+</a>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2693ff&height=120&section=footer"/>
