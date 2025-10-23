@@ -19,9 +19,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<a href="https://github.com/kobDanonino/Prueba-Web"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobDanonino&repo=Prueba-Web &theme=merko" /> </a>
-
-
 <a href="https://github.com/kobDanonino/AI-HOSHINO-V2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobDanonino&repo=AI-HOSHINO-V2&theme=merko" />
 </a>
@@ -29,6 +26,8 @@
 <a href="https://github.com/kobDanonino/SHINOBU-KOCHO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobDanonino&repo=SHINOBU-KOCHO&theme=merko" />
 </a>
+
+<a href="https://github.com/kobDanonino/Prueba-Web"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobDanonino&repo=Prueba-Web&theme=radical" /> </a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
