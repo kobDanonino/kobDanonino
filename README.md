@@ -19,7 +19,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<a href="https://github.com/kobDanonino/Prueba-Web"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobDanonino&repo=Prueba-Web &theme=merko" /> </a> $${\color{red}Podrías hacer que esto se vea en color rojo en lugar de negro?}$$
+<a href="https://github.com/kobDanonino/Prueba-Web"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobDanonino&repo=Prueba-Web &theme=merko" /> </a>
 
 
 <a href="https://github.com/kobDanonino/AI-HOSHINO-V2">
