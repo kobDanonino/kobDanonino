@@ -19,6 +19,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+### ⚙ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,js,mysql,git,github,figma,vscode,html,css,react,dart,flutter"/>
+</p>
+
 <a href="https://github.com/kobDanonino/AI-HOSHINO-V2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobDanonino&repo=AI-HOSHINO-V2&theme=merko" />
 </a>
