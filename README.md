@@ -19,7 +19,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### ⚙ Languages & Tools
+### 🐧 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,js,mysql,git,github,figma,vscode,html,css,react,dart,flutter"/>
 </p>
